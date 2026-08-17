@@ -1,1 +1,37 @@
 
+{
+  "app": {
+    "name": "Mampirafy Tool",
+    "version": "1.0.0",
+    "format": "json"
+  },
+
+  "conversation": {
+    "title": "Conversation privée",
+    "status": "active",
+
+    "participants": [
+      "user1",
+      "user2"
+    ],
+
+    "messages": [
+      {
+        "name": "Andry",
+        "message": "Tu es disponible ce soir ?"
+      },
+      {
+        "name": "Miora",
+        "message": "Oui, je suis disponible."
+      },
+      {
+        "name": "Andry",
+        "message": "D'accord. Je voulais te parler tranquillement."
+      },
+      {
+        "name": "Miora",
+        "message": "Je t'écoute."
+      }
+    ]
+  }
+}
