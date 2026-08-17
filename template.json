@@ -1,4 +1,3 @@
-
 {
   "app": {
     "name": "Mampirafy Tool",
@@ -6,8 +5,8 @@
     "format": "json"
   },
 
-  "conversation": {
-    "title": "Conversation privée",
+  "template": {
+    "title": "Conversation Template",
     "status": "active",
 
     "participants": [
@@ -17,20 +16,28 @@
 
     "messages": [
       {
-        "name": "Andry",
-        "message": "Tu es disponible ce soir ?"
+        "name": "user1",
+        "message": "Bonjour, comment vas-tu ?"
       },
       {
-        "name": "Miora",
-        "message": "Oui, je suis disponible."
+        "name": "user2",
+        "message": "Bonjour, ça va bien. Et toi ?"
       },
       {
-        "name": "Andry",
-        "message": "D'accord. Je voulais te parler tranquillement."
+        "name": "user1",
+        "message": "Je vais bien aussi. Je voulais te parler."
       },
       {
-        "name": "Miora",
-        "message": "Je t'écoute."
+        "name": "user2",
+        "message": "Bien sûr, je t'écoute."
+      },
+      {
+        "name": "user1",
+        "message": "On pourra continuer cette conversation plus tard."
+      },
+      {
+        "name": "user2",
+        "message": "D'accord, pas de problème."
       }
     ]
   }
