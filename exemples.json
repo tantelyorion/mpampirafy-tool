@@ -1,1 +1,201 @@
 
+{
+  "app": {
+    "name": "Mampirafy Tool",
+    "version": "1.0.0",
+    "format": "json"
+  },
+
+  "conversation": {
+    "title": "Conversation privée",
+    "status": "active",
+
+    "participants": [
+      "Andry",
+      "Miora"
+    ],
+
+    "messages": [
+      {
+        "name": "Andry",
+        "message": "Tu es bien rentrée ?"
+      },
+      {
+        "name": "Miora",
+        "message": "Oui, je viens juste d'arriver."
+      },
+      {
+        "name": "Andry",
+        "message": "Tout s'est bien passé ?"
+      },
+      {
+        "name": "Miora",
+        "message": "Oui. J'étais un peu fatiguée, mais ça va."
+      },
+      {
+        "name": "Andry",
+        "message": "Je voulais te parler depuis tout à l'heure."
+      },
+      {
+        "name": "Miora",
+        "message": "À propos de quoi ?"
+      },
+      {
+        "name": "Andry",
+        "message": "À propos de nous."
+      },
+      {
+        "name": "Miora",
+        "message": "Je savais que tu finirais par en parler."
+      },
+      {
+        "name": "Andry",
+        "message": "Tu savais ?"
+      },
+      {
+        "name": "Miora",
+        "message": "Oui. Depuis quelques jours, tu n'es plus comme avant."
+      },
+      {
+        "name": "Andry",
+        "message": "Je ne savais pas comment te le dire."
+      },
+      {
+        "name": "Miora",
+        "message": "Alors dis-le simplement."
+      },
+      {
+        "name": "Andry",
+        "message": "Je pense beaucoup à toi."
+      },
+      {
+        "name": "Miora",
+        "message": "Tu penses beaucoup à moi depuis longtemps."
+      },
+      {
+        "name": "Andry",
+        "message": "Cette fois c'est différent."
+      },
+      {
+        "name": "Miora",
+        "message": "Qu'est-ce qui est différent ?"
+      },
+      {
+        "name": "Andry",
+        "message": "Je ne veux pas faire semblant que tout est normal."
+      },
+      {
+        "name": "Miora",
+        "message": "Moi non plus."
+      },
+      {
+        "name": "Andry",
+        "message": "J'ai peur de ce qui pourrait arriver si on continue comme ça."
+      },
+      {
+        "name": "Miora",
+        "message": "Tu as peur de moi ou de la situation ?"
+      },
+      {
+        "name": "Andry",
+        "message": "De la situation."
+      },
+      {
+        "name": "Miora",
+        "message": "Alors il faut qu'on soit honnêtes l'un avec l'autre."
+      },
+      {
+        "name": "Andry",
+        "message": "Je suis d'accord."
+      },
+      {
+        "name": "Miora",
+        "message": "Je ne veux pas être quelqu'un qui te demande de mentir."
+      },
+      {
+        "name": "Andry",
+        "message": "Je comprends."
+      },
+      {
+        "name": "Miora",
+        "message": "Et je ne veux pas non plus vivre dans la peur d'être découverte."
+      },
+      {
+        "name": "Andry",
+        "message": "C'est justement pour ça que je voulais qu'on parle."
+      },
+      {
+        "name": "Miora",
+        "message": "Qu'est-ce que tu veux vraiment ?"
+      },
+      {
+        "name": "Andry",
+        "message": "Je ne sais pas encore."
+      },
+      {
+        "name": "Miora",
+        "message": "Alors ne prends pas de décision ce soir."
+      },
+      {
+        "name": "Andry",
+        "message": "Pourquoi ?"
+      },
+      {
+        "name": "Miora",
+        "message": "Parce qu'on est tous les deux trop impliqués."
+      },
+      {
+        "name": "Andry",
+        "message": "Tu penses qu'il faut arrêter ?"
+      },
+      {
+        "name": "Miora",
+        "message": "Je pense qu'il faut réfléchir."
+      },
+      {
+        "name": "Andry",
+        "message": "Et si je te dis que je tiens vraiment à toi ?"
+      },
+      {
+        "name": "Miora",
+        "message": "Je te répondrais que tenir à quelqu'un ne suffit pas toujours."
+      },
+      {
+        "name": "Andry",
+        "message": "Tu as raison."
+      },
+      {
+        "name": "Miora",
+        "message": "Je ne veux pas que cette histoire détruise nos vies."
+      },
+      {
+        "name": "Andry",
+        "message": "Moi non plus."
+      },
+      {
+        "name": "Miora",
+        "message": "Alors demain, on en reparle calmement."
+      },
+      {
+        "name": "Andry",
+        "message": "D'accord."
+      },
+      {
+        "name": "Miora",
+        "message": "Et cette fois, pas de promesses."
+      },
+      {
+        "name": "Andry",
+        "message": "Pas de promesses."
+      },
+      {
+        "name": "Miora",
+        "message": "Bonne nuit, Andry."
+      },
+      {
+        "name": "Andry",
+        "message": "Bonne nuit, Miora."
+      }
+    ]
+  }
+}
