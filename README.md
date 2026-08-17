@@ -10,11 +10,13 @@ Mampirafy Tool est un prototype basé sur des fichiers JSON permettant de struct
 Le projet utilise un format minimaliste : chaque message contient uniquement le nom du participant et le contenu du message.
 
 Structure du projet
+
 Mampirafy-Tool/
 ├── README.md
 ├── templates.json
 └── conversations/
     └── conversation.json
+
 
 Format d'une conversation
 Une conversation contient trois éléments principaux :
